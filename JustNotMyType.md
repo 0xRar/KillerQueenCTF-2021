@@ -5,9 +5,9 @@
 
 - ## Challenge Information:
 
-| Name        | Category | Difficulty | Points | Dev |
-|-------------|----------|------------|--------|-----|
-| Just Not My Type | Web | Easy       | 248    |[ZeroDayTea]|
+| Name             | Category | Difficulty | Points | Dev        |
+|------------------|----------|------------|--------|------------|
+| Just Not My Type | Web      | Easy       | 248    |[ZeroDayTea]|
 
 
 ----
