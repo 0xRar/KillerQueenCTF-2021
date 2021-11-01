@@ -1,11 +1,13 @@
 # Writeup for the challenge **_`Just Not My Type`_** from Killer Queen CTF 2021
 ----
 
+[zdt]: https://twitter.com/ZeroDayTea
+
 - ## Challenge Information:
 
-| Name        | Category | Difficulty | Points |
-|-------------|----------|------------|--------|
-| Just Not My Type | Web | Unknown    | Gets Lower with every solve |
+| Name        | Category | Difficulty | Points | Dev |
+|-------------|----------|------------|--------|-----|
+| Just Not My Type | Web | Easy       | 248    |[zdt]|
 
 
 ----
