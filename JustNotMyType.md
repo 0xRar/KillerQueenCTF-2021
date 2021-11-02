@@ -22,7 +22,7 @@ First thing i thought it was an sqli, but then i remembered they already gave us
 
 ### Source-Code:
 
-```
+```php
 <h1>I just don't think we're compatible</h1>
 
 <?php
