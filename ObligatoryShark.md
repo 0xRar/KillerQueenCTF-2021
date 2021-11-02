@@ -26,7 +26,7 @@ from a basic look you won't know what to look for but there is something caught 
 
 Back to the challenge, I followed the TCP stream for the telnet data and its the login data for the user.
 
-```
+```red
 thecompany login: uusseerr22
 Password: 33a465747cb15e84a26564f57cda0988
 ```
